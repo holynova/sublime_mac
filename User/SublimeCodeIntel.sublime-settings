@@ -1,0 +1,6 @@
+{
+    //注意上下文需要添加的逗号
+    "JavaScript":{
+        "javascriptExtraPaths":[]
+    }
+}
