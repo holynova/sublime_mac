@@ -2,8 +2,7 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"https://packagecontrol.io/channel_v3.json",
-		// "https://packagecontrol.io/channel_v3.json"
+		"https://packagecontrol.io/channel_v3.json"
 	],
 	"in_process_packages":
 	[
@@ -18,6 +17,7 @@
 		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"JsFormat",
+		"LESS",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",

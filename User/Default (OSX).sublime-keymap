@@ -1,0 +1,10 @@
+[
+    { "keys": ["super+shift+d"], "command": "duplicate_line" },
+
+    { "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+    
+    
+
+    { "keys": ["super+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+    { "keys": ["super+f3"], "command": "find_all_under" },
+]
