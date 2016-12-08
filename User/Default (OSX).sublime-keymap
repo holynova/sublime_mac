@@ -7,4 +7,7 @@
 
     { "keys": ["super+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
     { "keys": ["super+f3"], "command": "find_all_under" },
+
+    { "keys": ["shift+super+up"], "command": "swap_line_up" },
+    { "keys": ["shift+super+down"], "command": "swap_line_down" }
 ]
